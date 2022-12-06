@@ -1,0 +1,63 @@
+//is single line comment
+/*let
+a=
+10 multiline comment*/
+
+// console.log("hello world")
+#console is like print functon
+
+// let num;
+
+// num=40
+// console.log(num)
+
+#let message ="hello"
+#let is like x in python
+
+#we shounld end a statement with semi colomn(;)
+// num = 40;console.log(num)
+
+#automatically adds semicolomn
+
+#should not use the same function key more than one t
+#now let is used once it cannot be used again.
+
+alert("hello world")
+# alert shows the popup notification on the web page
+
+let askfromuser = promp("enter the input")
+# take a input from the user in the form of popup
+
+let isprogrammer = confrim("are you a programmer")
+
+console.log(isprogrammer)
+#asks the question and give the info
+
+#common datatype
+#string =>text
+#number => int as well as float
+#arrays => order pair of collections[10,20,30,40,506,
+#objects => key value pair {name; pranay}
+#boolean => true and false
+
+#{} =  is a block 
+
+if(true){
+}
+#can be written in single or multiple lines and the p
+
+if(year == 2022){
+    alert("you are so smart")
+}else{
+    alert("you are so dumb")
+}
+#basic if and else condition in javascript
+
+let age = promp("how old are you")
+ if(age > 18) {
+    alert("access denied")
+ }else if(age < 20){
+    alert("u have limited access")
+ }if(age > 20){
+    alert("you are accessed")
+ }
